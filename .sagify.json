@@ -1,0 +1,8 @@
+{
+    "image_name": "pm",
+    "aws_profile": "ammar",
+    "aws_region": "us-east-1",
+    "python_version": "2.7",
+    "requirements_dir": "./src/sagify",
+    "sagify_module_dir": "src"
+}
